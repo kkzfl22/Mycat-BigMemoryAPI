@@ -1,4 +1,4 @@
-package io.mycat.bigmem.buffer.directmemory;
+package io.mycat.bigmem.chunkpageallot.buffer.directmemory;
 
 public class TestFlag {
     

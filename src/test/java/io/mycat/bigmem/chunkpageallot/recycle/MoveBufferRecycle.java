@@ -1,4 +1,4 @@
-package io.mycat.bigmem.allot.recycle;
+package io.mycat.bigmem.chunkpageallot.recycle;
 
 import io.mycat.bigmem.chunkpageallot.buffer.MycatBufferBase;
 import io.mycat.bigmem.chunkpageallot.buffer.impl.DirectMycatBufferMoveImpl;

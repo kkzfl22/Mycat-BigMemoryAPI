@@ -1,4 +1,4 @@
-package io.mycat.bigmem.buffer.mapfile;
+package io.mycat.bigmem.chunkpageallot.buffer.mapfile;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
