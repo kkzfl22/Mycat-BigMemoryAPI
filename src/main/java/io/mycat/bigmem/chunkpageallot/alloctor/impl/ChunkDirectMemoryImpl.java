@@ -43,9 +43,11 @@ public class ChunkDirectMemoryImpl implements ChunkMemoryAllotInf {
             }
             // 标识初始化完成
             initFlag = true;
-        } else {
-            throw new RuntimeException("ChunkDirectMemoryImpl init already!");
-        }
+        } 
+        
+        // else {
+        // throw new RuntimeException("ChunkDirectMemoryImpl init already!");
+        // }
     }
 
     @Override
